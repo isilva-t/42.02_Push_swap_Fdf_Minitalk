@@ -1,7 +1,5 @@
 # Push_swap
 
-![Push_swap Program Flow Diagram](./docs/prog_map.jpg)
-
 ## About
 A sorting algorithm project that uses two stacks and a limited set of operations to sort integers with minimal moves.
 
@@ -18,6 +16,9 @@ pa, pb      - Push elements between stacks
 ra, rb, rr  - Rotate (shift up all elements)
 rra, rrb, rrr - Reverse rotate (shift down)
 ```
+
+## Implementation Scheme
+![Push_swap Program Flow Diagram](./docs/prog_map.jpg)
 
 ## Usage
 ```
