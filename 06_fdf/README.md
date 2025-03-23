@@ -47,9 +47,10 @@ This project was my first introduction to computer graphics programming. Some of
 
 I chose this project to explore how CAD programs draw lines on screen. Learning the Bresenham algorithm and implementing it was particularly enlightening. The most enjoyable part was creating the gradient color effect in the line drawing, which made the wireframes more visually appealing and helped emphasize the elevation changes.
 
-![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/03.png))
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/04.png))
 
 ## Examples
 
 The project includes several example maps that demonstrate various terrain features, from simple shapes to complex landscapes.
 
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/03.png))

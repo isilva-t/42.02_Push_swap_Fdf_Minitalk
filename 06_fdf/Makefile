@@ -52,7 +52,7 @@ $(NAME):
 	$(MSG1)
 
 demo:
-	./fdf maps/20-60.fdf
+	./fdf maps/qa_map_tests/16-16.fdf
 	
 LIBX_DIR = minilibx-linux
 libx : $(LIBX_DIR)
