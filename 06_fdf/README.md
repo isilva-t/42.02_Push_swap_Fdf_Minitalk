@@ -26,7 +26,7 @@ To quickly test the program with a sample map, simply run:
 ```
 make demo
 ```
-![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/02.png)
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/022.png)
 
 ## Usage
 
