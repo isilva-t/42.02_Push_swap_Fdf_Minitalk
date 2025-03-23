@@ -53,4 +53,4 @@ I chose this project to explore how CAD programs draw lines on screen. Learning 
 
 The project includes several example maps that demonstrate various terrain features, from simple shapes to complex landscapes.
 
-![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/03.png))
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/033.png))
