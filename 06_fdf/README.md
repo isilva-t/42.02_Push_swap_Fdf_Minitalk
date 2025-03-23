@@ -1,6 +1,6 @@
 # FDF - Wireframe Model Renderer
 
-![sample](https://raw.githubusercontent.com/isilva-t/42.Mile.2_mini.projects/tree/main/06_fdf/assets/01.png)
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/01.png)
 
 ## Project Overview
 
@@ -26,7 +26,7 @@ To quickly test the program with a sample map, simply run:
 ```
 make demo
 ```
-![sample](https://raw.githubusercontent.com/isilva-t/42.Mile.2_mini.projects/tree/main/06_fdf/assets/02.png)
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/02.png)
 
 ## Usage
 
@@ -47,7 +47,7 @@ This project was my first introduction to computer graphics programming. Some of
 
 I chose this project to explore how CAD programs draw lines on screen. Learning the Bresenham algorithm and implementing it was particularly enlightening. The most enjoyable part was creating the gradient color effect in the line drawing, which made the wireframes more visually appealing and helped emphasize the elevation changes.
 
-![sample](https://raw.githubusercontent.com/isilva-t/42.Mile.2_mini.projects/tree/main/06_fdf/assets/03.png)
+![sample](https://github.com/isilva-t/42.Mile.2_mini.projects/blob/main/06_fdf/assets/03.png))
 
 ## Examples
 
