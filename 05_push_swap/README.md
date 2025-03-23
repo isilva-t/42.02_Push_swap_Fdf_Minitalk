@@ -1,6 +1,6 @@
 # Push_swap
 
-![Push_swap Program Flow Diagram](./docs/program_map.jpg)
+![Push_swap Program Flow Diagram](./docs/prog_map.jpg)
 
 ## Overview
 This project is about sorting data on a stack with a limited set of instructions, trying to achieve the lowest possible number of actions. It was a great opportunity to learn about sorting algorithms and optimize their efficiency.
